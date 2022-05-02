@@ -1,0 +1,46 @@
+{
+  "name": "ngx-vector-icons",
+  "version": "0.0.0",
+  "peerDependencies": {
+    "@angular/common": "^13.2.0",
+    "@angular/core": "^13.2.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "module": "fesm2015/ngx-vector-icons.mjs",
+  "es2020": "fesm2020/ngx-vector-icons.mjs",
+  "esm2020": "esm2020/ngx-vector-icons.mjs",
+  "fesm2020": "fesm2020/ngx-vector-icons.mjs",
+  "fesm2015": "fesm2015/ngx-vector-icons.mjs",
+  "typings": "ngx-vector-icons.d.ts",
+  "exports": {
+    "./package.json": {
+      "default": "./package.json"
+    },
+    ".": {
+      "types": "./ngx-vector-icons.d.ts",
+      "esm2020": "./esm2020/ngx-vector-icons.mjs",
+      "es2020": "./fesm2020/ngx-vector-icons.mjs",
+      "es2015": "./fesm2015/ngx-vector-icons.mjs",
+      "node": "./fesm2015/ngx-vector-icons.mjs",
+      "default": "./fesm2020/ngx-vector-icons.mjs"
+    }
+  },
+  "sideEffects": false,
+  "homepage": "https://github.com/ramsankar27/ngx-vector-icons",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ramsankar27/ngx-vector-icons.git"
+  },
+  "keywords": [
+    "angular",
+    "angular icons",
+    "angularjs icon",
+    "angular icons list",
+    "angular icons library",
+    "angular vector icons",
+    "icons for angular"
+  ],
+  "description": "An easy way to add icons to your Angular app.It's a light-weight library.Six icon sets are included in the package and can be used for free.It may be used for commercial projects, open source projects, or nearly anything else"
+}
